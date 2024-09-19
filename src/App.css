@@ -46,13 +46,16 @@ img{
   height: 600px;
   cursor: pointer;
 }
-span{
+.text{
   position: relative;
-  color: rgb(185, 25, 25);
-  top: -280px;
-  background: white;
-  left:-330px;
-  font-size: 60px;
+  color: rgb(248, 25, 25);
+  top: -380px;
+  left:185px;
+  font-size: 30px;
+  width: 200px;
+  height: 300px;
+  word-wrap: break-word;
+  text-align: center;
 }
 
 .r {
